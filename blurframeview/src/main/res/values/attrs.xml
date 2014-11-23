@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlurFrameLayout">
+        <attr name="blurRadius" format="integer" />
+        <attr name="downsample" format="float" />
+    </declare-styleable>
+
+</resources>
